@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/mayank-raj-12aa36368/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://github.com/mayank864"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"></a>
 <a href="mailto:rajmayank362@gmail.com"><img src="https://img.shields.io/badge/Email-rajmayank362@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+<a href="https://mayank-portfolio-eight-chi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-purple?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
 
 <br>
 
